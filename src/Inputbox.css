@@ -1,0 +1,14 @@
+.display{
+    display:grid;
+    justify-items: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+button{
+    color: rgb(171, 230, 34);
+    background-color: rgb(52, 69, 58);
+    border: 2px solid rgb(171, 230, 34);
+}
+input{
+    border: 1px solid blue;
+}
